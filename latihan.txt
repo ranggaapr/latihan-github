@@ -1,3 +1,2 @@
 latihan github
-baris 2
 baris 3
